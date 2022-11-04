@@ -20,7 +20,18 @@ pyvenv.cfg
 .tool-versions
 .gitattributes
 
-dados_eleitorais.rar
+
+# Large Datasets
+boletim_urna_RN.csv
+perfil_eleitor_secao_ATUAL_RN.csv
+
+# Referencias
+perfil_eleitor_secao_ATUAL_AM.csv
+bweb_1t_AM_051020221321.csv
+Eleições Manaus 2022 1o turno.ipynb
+FaixasIdade.csv
+EstadoCivil.csv
+Escolaridade.csv
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
